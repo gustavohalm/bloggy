@@ -1,0 +1,50 @@
+a,input,h1,h2,h3,h4,p{
+    font-family:monospace;
+}
+body{
+    background-image: url('../images/back_login_1.jpg');
+}
+a{
+  color:black;
+  text-decoration: none;
+}
+a:hover{
+  color:#ccc;
+  text-decoration: none;
+  font-weight: inherit;
+}
+.posts{
+  border-bottom: 2px solid #416A7A;
+  max-width: 90vw;
+  padding-top: 5px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 5px;
+  margin-bottom: 35px;
+}
+.posts:hover{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left:8px;
+  padding-right: 8px;
+  border-color: #ccc;
+}
+.link:hover{
+    background-color: #e4f2f0;
+    text-color:  #087264;
+    text-decoration: none.;
+}
+
+.center-block {
+    float: none !important
+}
+.title{
+    font-size: 1.5em;
+    margin-bottom: 3%;
+
+}
+
+.center-block{
+    background-color: #fff;
+    padding: 10px;
+}
